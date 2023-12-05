@@ -1,5 +1,5 @@
-import Page from '.composants/Page.jsx'
-import './App.css';
+import Page from './composants/Page'
+import './style/Page.css'
 
 
 
